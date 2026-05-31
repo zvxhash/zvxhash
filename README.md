@@ -19,15 +19,6 @@ An independent software engineer deeply focused on systems programming, bytecode
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zvxhash&show_icons=true&theme=dark&hide_border=true&bg_color=050b14&title_color=0070f3&icon_color=0052cc&text_color=8892b0" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zvxhash&layout=compact&theme=dark&hide_border=true&bg_color=050b14&title_color=0070f3&text_color=8892b0" />
-</p>
-
----
-
 ### ⚡ Current Focus & R&D
 * 🛡️ Developing custom **Code Virtualization Engines (VM)** and native C++ protection layers for JVM applications.
 * 🎮 Engineering highly optimized Minecraft client-side modifications, custom launchers, and memory-efficient GUIs.
