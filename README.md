@@ -18,8 +18,8 @@ Independent developer diving into low-level dev, Minecraft modding, and bytecode
 
 ---
 
-### ⚡ Current Focus & R&D
-* 🛡️ Developing custom **Code Virtualization Engines (VM)** and native C++ protection layers for JVM applications.
-* 🎮 Engineering highly optimized Minecraft client-side modifications, custom launchers, and memory-efficient GUIs.
-* 🤖 Writing performance-critical firmware and control layers for autonomous robotics.
-* 🔍 Researching Windows internals, process injection, and API hooking techniques.
+### ⚡ What I'm Working On Right Now
+
+* 🛡️ Building a native C++ wrapper/packer for JAR files to stop people from easily dumping and decompiling the bytecode.
+* 🎮 Writing custom Minecraft launchers, clients, and optimizing rendering stuff to get better performance.
+* 🔍 Messing around with Windows internals, memory injection, and basic hooking techniques.
