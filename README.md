@@ -24,7 +24,3 @@ An independent software engineer deeply focused on systems programming, bytecode
 * 🎮 Engineering highly optimized Minecraft client-side modifications, custom launchers, and memory-efficient GUIs.
 * 🤖 Writing performance-critical firmware and control layers for autonomous robotics.
 * 🔍 Researching Windows internals, process injection, and API hooking techniques.
-
-<p align="center">
-  <sub>"Simplicity is the ultimate sophistication." — Built with code, contrast, and deep blue minimalism.</sub>
-</p>
