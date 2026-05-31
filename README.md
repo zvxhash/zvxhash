@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-0052cc?style=for-the-badge&logoColor=fff" />
 </p>
 
-An independent software engineer deeply focused on systems programming, bytecode manipulation, software protection, and embedded systems. I bridge the gap between low-level performance and high-level gaming/robotics frameworks, specializing in reverse engineering and custom developer tools.
+An independent software engineer focused on systems programming, bytecode manipulation, software protection, and embedded systems. I bridge the gap between low-level performance and high-level gaming/robotics frameworks, specializing in reverse engineering and custom developer tools.
 
 ---
 
@@ -24,3 +24,5 @@ An independent software engineer deeply focused on systems programming, bytecode
 * 🎮 Engineering highly optimized Minecraft client-side modifications, custom launchers, and memory-efficient GUIs.
 * 🤖 Writing performance-critical firmware and control layers for autonomous robotics.
 * 🔍 Researching Windows internals, process injection, and API hooking techniques.
+
+Systems & JVM developer. Focus on reverse engineering, code protection, and backend automation.
