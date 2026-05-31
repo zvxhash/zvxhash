@@ -10,12 +10,11 @@ Independent developer diving into low-level dev, Minecraft modding, and bytecode
 
 ---
 
-### 🛠️ Core Stack & Technologies
+### 🛠️ What I Actually Use
 
-* **Languages:** Java, C++, Python, C, Rust, C#
-* **Minecraft & JVM:** Bytecode Manipulation, Fabric/Forge API, Mixin Framework, Custom Launchers, ASM
-* **Systems & Hardware:** Win32 API / NTAPI, Reverse Engineering, ESP32, Embedded Systems, RTOS
-* **Tools & Technologies:** Git, CMake, Gradle, Docker, Assembly (x86/x64)
+* **Languages:** Java and C++ are my main tools. I also use Python for scripts/automation and mess around with Rust on the side.
+* **JVM & Minecraft:** Writing Fabric mods using Mixins, tinkering with bytecode manipulation, and building custom protectors to shield mod source code from decompilers.
+* **Reverse Engineering & Systems:** Reading binaries, screwing around with the Win32 API, memory manipulation, and figuring out how software protection and packers work under the hood.
 
 ---
 
